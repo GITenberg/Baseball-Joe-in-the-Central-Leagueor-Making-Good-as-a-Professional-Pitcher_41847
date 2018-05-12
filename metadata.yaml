@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32638'
     url: http://www.gutenberg.org/2009/agents/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41847#Baseball-Joe-in-the-Central-Leagueor-Making-Good-as-a-Professional-Pitcher
 gutenberg_issued: '2013-01-14'
 gutenberg_type: Text
 identifiers:
